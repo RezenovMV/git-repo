@@ -1,5 +1,0 @@
-print("Hello World;")
-print("Hello men;")
-print("Hello;")
-print("Hello my dear friend;")
-print("Glad to see you;")
